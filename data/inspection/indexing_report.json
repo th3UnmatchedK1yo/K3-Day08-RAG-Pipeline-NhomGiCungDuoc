@@ -1,0 +1,55 @@
+{
+  "documents_loaded": 115,
+  "records_loaded": 115,
+  "chunks_created": 344,
+  "chunks_by_content_type": {
+    "examiner_comment": 27,
+    "typed_candidate_response": 14,
+    "teaching_guidance": 182,
+    "task_prompt": 5,
+    "band_descriptor": 80,
+    "assessment_criterion": 11,
+    "practice_question": 25
+  },
+  "chunks_by_criterion": {
+    "task_achievement": 10,
+    "coherence_cohesion": 24,
+    "lexical_resource": 20,
+    "grammatical_range_accuracy": 20,
+    "task_response": 10
+  },
+  "chunks_by_band": {
+    "5.0": 12,
+    "6.0": 10,
+    "7.0": 11,
+    "8.5": 4,
+    "4.0": 11,
+    "6.5": 2,
+    "5.5": 2,
+    "7.5": 2,
+    "9.0": 8,
+    "8.0": 8,
+    "3.0": 8,
+    "2.0": 8,
+    "1.0": 8,
+    "0.0": 8
+  },
+  "chunks_by_source": {
+    "IELTS Academic Writing Example Responses with Band Scores and Examiner Comments": 19,
+    "IELTS Academic Writing Sample Tasks 2023": 36,
+    "IELTS Writing Band Descriptors 2023": 80,
+    "IELTS Writing Key Assessment Criteria": 11,
+    "British Council IELTS Writing - Coherence & Cohesion": 4,
+    "IELTS Writing Task 2 – Why can’t I get a band 8? | IDP IELTS": 32,
+    "IELTS Writing task 2: 8 steps for a band 8 | IDP IELTS": 44,
+    "Ace IELTS Writing Task 2: Tips for Success": 57,
+    "How to Write an English Essay: IELTS Writing Task 2 Examples": 36,
+    "IELTS Practice Academic Writing Test - Task 2 | Take IELTS": 25
+  },
+  "records_skipped": 0,
+  "reasons_for_skipping": [],
+  "collection_name": "ielts_writing_docs",
+  "embedding_model": "BAAI/bge-m3",
+  "chunk_size": 800,
+  "chunk_overlap": 100
+}

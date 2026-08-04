@@ -1,0 +1,69 @@
+{
+  "relevant_scores": [
+    0.5889073610305786,
+    0.7080283761024475,
+    0.6768942475318909,
+    0.5391579270362854,
+    0.6519136428833008
+  ],
+  "unrelated_scores": [
+    0.3892688751220703,
+    0.4789356589317322,
+    0.34200191497802734,
+    0.4574311375617981,
+    0.47102516889572144
+  ],
+  "relevant_mean": 0.6329803109169007,
+  "unrelated_mean": 0.4277325510978699,
+  "relevant_min": 0.5391579270362854,
+  "unrelated_max": 0.4789356589317322,
+  "suggested_threshold": 0.509,
+  "default_threshold": 0.48,
+  "details": {
+    "relevant": [
+      {
+        "query": "What is the difference between Band 6 and Band 7 Lexical Resource?",
+        "best_dense_score": 0.5889073610305786
+      },
+      {
+        "query": "What does Task Response assess in Writing Task 2?",
+        "best_dense_score": 0.7080283761024475
+      },
+      {
+        "query": "What does Band 8 require for Coherence and Cohesion?",
+        "best_dense_score": 0.6768942475318909
+      },
+      {
+        "query": "What did the examiner say about the Task 2A Band 8.5 response?",
+        "best_dense_score": 0.5391579270362854
+      },
+      {
+        "query": "Why can overusing cohesive devices reduce writing quality?",
+        "best_dense_score": 0.6519136428833008
+      }
+    ],
+    "unrelated": [
+      {
+        "query": "How do I repair a car engine?",
+        "best_dense_score": 0.3892688751220703
+      },
+      {
+        "query": "What is the weather tomorrow?",
+        "best_dense_score": 0.4789356589317322
+      },
+      {
+        "query": "How do I cook Vietnamese pho?",
+        "best_dense_score": 0.34200191497802734
+      },
+      {
+        "query": "Explain quantum field theory.",
+        "best_dense_score": 0.4574311375617981
+      },
+      {
+        "query": "What is the tuition fee at a university?",
+        "best_dense_score": 0.47102516889572144
+      }
+    ]
+  },
+  "note": "Fallback must use original dense cosine similarity, never RRF score."
+}

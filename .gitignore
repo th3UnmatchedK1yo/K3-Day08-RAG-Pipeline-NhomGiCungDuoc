@@ -1,7 +1,8 @@
-# Python
+﻿# Python
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyc
 .venv/
 venv/
 *.egg-info/
@@ -9,12 +10,13 @@ venv/
 # Env (keys)
 .env
 
-# Temp PDF conversion cache
-data/_tmp_pdf/
-
-# Temp / cache
+# Caches / generated
+.cache/
+chroma_db/
+output_extracted/
 .pytest_cache/
 *.tmp
+data/_tmp_pdf/
 pageindex_doc_ids.json
 pageindex_pdfs/
 

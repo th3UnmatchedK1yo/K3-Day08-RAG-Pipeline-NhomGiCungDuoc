@@ -1,0 +1,74 @@
+{
+  "validated_at": "2026-08-04T04:47:44.024678+00:00",
+  "topic": "IELTS Writing Band Descriptors and Examiner Feedback Assistant",
+  "landing_dir": "C:\\Users\\Legion\\Documents\\THUCHANH-AITHUCCHIEN-E403\\K3-Day08-RAG-Pipeline-NhomGiCungDuoc\\data\\landing",
+  "legal_dir": "C:\\Users\\Legion\\Documents\\THUCHANH-AITHUCCHIEN-E403\\K3-Day08-RAG-Pipeline-NhomGiCungDuoc\\data\\landing\\legal",
+  "compatibility_copies": [
+    "ielts-academic-writing-example-responses-to-parts-1-and-2-with-band-scores-and-examiner-comments.pdf",
+    "ielts-academic-writing-sample-tasks-2023.pdf",
+    "ielts-writing-band-descriptors.pdf",
+    "ielts-writing-key-assessment-criteria.pdf",
+    "ielts_writing-_coherence_cohesion.pdf"
+  ],
+  "total_discovered": 5,
+  "readable_count": 5,
+  "minimum_required": 3,
+  "passed": true,
+  "files": [
+    {
+      "filename": "ielts-academic-writing-example-responses-to-parts-1-and-2-with-band-scores-and-examiner-comments.pdf",
+      "extension": ".pdf",
+      "file_size": 492279,
+      "path": "data\\landing\\ielts-academic-writing-example-responses-to-parts-1-and-2-with-band-scores-and-examiner-comments.pdf",
+      "empty": false,
+      "valid_pdf_header": true,
+      "page_count": 5,
+      "readable": true,
+      "errors": []
+    },
+    {
+      "filename": "ielts-academic-writing-sample-tasks-2023.pdf",
+      "extension": ".pdf",
+      "file_size": 1496682,
+      "path": "data\\landing\\ielts-academic-writing-sample-tasks-2023.pdf",
+      "empty": false,
+      "valid_pdf_header": true,
+      "page_count": 26,
+      "readable": true,
+      "errors": []
+    },
+    {
+      "filename": "ielts-writing-band-descriptors.pdf",
+      "extension": ".pdf",
+      "file_size": 141876,
+      "path": "data\\landing\\ielts-writing-band-descriptors.pdf",
+      "empty": false,
+      "valid_pdf_header": true,
+      "page_count": 9,
+      "readable": true,
+      "errors": []
+    },
+    {
+      "filename": "ielts-writing-key-assessment-criteria.pdf",
+      "extension": ".pdf",
+      "file_size": 141957,
+      "path": "data\\landing\\ielts-writing-key-assessment-criteria.pdf",
+      "empty": false,
+      "valid_pdf_header": true,
+      "page_count": 4,
+      "readable": true,
+      "errors": []
+    },
+    {
+      "filename": "ielts_writing-_coherence_cohesion.pdf",
+      "extension": ".pdf",
+      "file_size": 419180,
+      "path": "data\\landing\\ielts_writing-_coherence_cohesion.pdf",
+      "empty": false,
+      "valid_pdf_header": true,
+      "page_count": 1,
+      "readable": true,
+      "errors": []
+    }
+  ]
+}
