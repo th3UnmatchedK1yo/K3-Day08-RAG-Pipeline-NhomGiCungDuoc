@@ -1,7 +1,7 @@
 # Core
 python-dotenv>=1.0.0
 requests>=2.31.0
-numpy>=1.24.0
+numpy>=2.1.0
 
 # Task 2 - Crawling
 crawl4ai>=0.3.0

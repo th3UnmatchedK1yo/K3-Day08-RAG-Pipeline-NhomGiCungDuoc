@@ -1,17 +1,77 @@
 [
   {
-    "question": "Học phí hàng năm của chương trình Business tại RMIT Vietnam là bao nhiêu?",
-    "expected_answer": "Khoảng 375.840.000 VND mỗi năm (tùy chương trình cụ thể).",
-    "expected_context": "Trang Tuition Fees, mục Undergraduate Programs"
+    "question": "IELTS Writing Task 1 được chấm theo những tiêu chí nào?",
+    "expected_answer": "Task 1 được chấm theo 4 tiêu chí: Task Achievement, Coherence and Cohesion, Lexical Resource, và Grammatical Range and Accuracy.",
+    "expected_context": "ielts-writing-key-assessment-criteria.pdf, trang 1, mục tiêu chí chấm Writing Task 1"
   },
   {
-    "question": "Học phí được thanh toán theo hình thức nào?",
-    "expected_answer": "Thanh toán theo từng học kỳ, tính theo từng môn học đã đăng ký.",
-    "expected_context": "Trang Tuition Fees, mục Payment Structure"
+    "question": "IELTS Writing Task 2 được chấm theo những tiêu chí nào?",
+    "expected_answer": "Task 2 được chấm theo 4 tiêu chí: Task Response, Coherence and Cohesion, Lexical Resource, và Grammatical Range and Accuracy.",
+    "expected_context": "ielts-writing-key-assessment-criteria.pdf, trang 1, mục tiêu chí chấm Writing Task 2"
   },
   {
-    "question": "Trường có cung cấp ký túc xá trong khuôn viên không?",
-    "expected_answer": "Không — trường không cung cấp chỗ ở trong khuôn viên, nhưng có đội ngũ hỗ trợ sinh viên tìm chỗ ở gần trường.",
-    "expected_context": "Trang Accommodation Services"
+    "question": "Task 1 và Task 2 có trọng số chấm điểm giống nhau không?",
+    "expected_answer": "Không. Mỗi task được chấm độc lập nhưng Task 2 có trọng số cao hơn Task 1 trong điểm Writing.",
+    "expected_context": "ielts-writing-key-assessment-criteria.pdf, trang 1, phần giới thiệu"
+  },
+  {
+    "question": "Thí sinh cần viết tối thiểu bao nhiêu từ và dành khoảng bao nhiêu phút cho IELTS Academic Writing Task 1?",
+    "expected_answer": "Thí sinh cần viết ít nhất 150 từ và nên dành khoảng 20 phút cho Task 1.",
+    "expected_context": "ielts-academic-writing-sample-tasks-2023.pdf, trang 1 và các trang Sample Task 1A–1C"
+  },
+  {
+    "question": "Thí sinh cần viết tối thiểu bao nhiêu từ và dành khoảng bao nhiêu phút cho IELTS Academic Writing Task 2?",
+    "expected_answer": "Thí sinh cần viết ít nhất 250 từ và nên dành khoảng 40 phút cho Task 2.",
+    "expected_context": "ielts-academic-writing-sample-tasks-2023.pdf, trang 1 và trang 6–7, mục Writing Task 2"
+  },
+  {
+    "question": "Tiêu chí Coherence and Cohesion đánh giá những khía cạnh nào của bài viết?",
+    "expected_answer": "Tiêu chí này đánh giá cách tổ chức và phát triển ý logic, cách sắp xếp đoạn văn, trình tự ý tưởng, việc sử dụng phép tham chiếu, thay thế và các từ hoặc cụm từ liên kết phù hợp.",
+    "expected_context": "ielts-writing-key-assessment-criteria.pdf, trang 3, mục Coherence and Cohesion"
+  },
+  {
+    "question": "Coherence khác Cohesion như thế nào trong IELTS Writing?",
+    "expected_answer": "Coherence liên quan đến việc các ý được kết nối và sắp xếp theo trình tự logic; Cohesion liên quan đến việc sử dụng phù hợp các phương tiện liên kết như từ nối, liên từ, đại từ, phép tham chiếu và thay thế.",
+    "expected_context": "ielts-writing-key-assessment-criteria.pdf, trang 3, mục Coherence and Cohesion"
+  },
+  {
+    "question": "Có nên sử dụng thật nhiều từ nối trong IELTS Writing để tăng điểm Coherence and Cohesion không?",
+    "expected_answer": "Không. Việc lạm dụng hoặc dùng từ nối không phù hợp có thể khiến bài viết khó hiểu hoặc gây khó chịu cho người đọc. Cần sử dụng đa dạng và đúng chức năng.",
+    "expected_context": "ielts_writing-_coherence_cohesion.pdf, trang 1, phần Examples of Cohesive Devices và cảnh báo về việc over-use linking words"
+  },
+  {
+    "question": "Tiêu chí Lexical Resource đánh giá những yếu tố nào?",
+    "expected_answer": "Lexical Resource đánh giá phạm vi từ vựng, mức độ phù hợp và chính xác của từ, khả năng dùng từ chuyên biệt theo chủ đề, collocation, thành ngữ, cách diễn đạt phức tạp, cùng ảnh hưởng của lỗi chính tả và cấu tạo từ.",
+    "expected_context": "ielts-writing-key-assessment-criteria.pdf, trang 4, mục Lexical Resource"
+  },
+  {
+    "question": "Tiêu chí Grammatical Range and Accuracy đánh giá những yếu tố nào?",
+    "expected_answer": "Tiêu chí này đánh giá phạm vi và sự phù hợp của các cấu trúc câu đơn, câu ghép và câu phức; độ chính xác ngữ pháp; mức độ và ảnh hưởng của lỗi; cùng việc sử dụng dấu câu chính xác.",
+    "expected_context": "ielts-writing-key-assessment-criteria.pdf, trang 4, mục Grammatical Range and Accuracy"
+  },
+  {
+    "question": "Writing Task 1 Band 7 yêu cầu phần overview như thế nào?",
+    "expected_answer": "Bài cần trình bày một overview rõ ràng, phân loại dữ liệu phù hợp và xác định được các xu hướng chính hoặc sự khác biệt nổi bật.",
+    "expected_context": "ielts-writing-band-descriptors.pdf, trang 3, Writing Task 1 Band 7, cột Task Achievement"
+  },
+  {
+    "question": "Sự khác nhau giữa Band 6 và Band 7 ở tiêu chí Lexical Resource của Writing Task 1 là gì?",
+    "expected_answer": "Band 6 có vốn từ nhìn chung đủ dùng nhưng còn hạn chế về độ chính xác và phạm vi; Band 7 thể hiện sự linh hoạt và chính xác cao hơn, có khả năng dùng từ ít phổ biến hoặc thành ngữ, dù vẫn có thể xuất hiện một số lỗi về lựa chọn từ và collocation.",
+    "expected_context": "ielts-writing-band-descriptors.pdf, trang 3–4, Writing Task 1 Band 6 và Band 7, cột Lexical Resource"
+  },
+  {
+    "question": "Sự khác nhau giữa Band 6 và Band 7 ở tiêu chí Grammatical Range and Accuracy của Writing Task 1 là gì?",
+    "expected_answer": "Band 6 sử dụng kết hợp câu đơn và câu phức nhưng độ linh hoạt còn hạn chế, các cấu trúc phức thường kém chính xác hơn. Band 7 sử dụng đa dạng cấu trúc phức linh hoạt hơn, có nhiều câu không lỗi và các lỗi còn lại không cản trở giao tiếp.",
+    "expected_context": "ielts-writing-band-descriptors.pdf, trang 3–4, Writing Task 1 Band 6 và Band 7, cột Grammatical Range and Accuracy"
+  },
+  {
+    "question": "Vì sao Sample Academic Writing Part 1 Candidate Response 1 chỉ được Band 6?",
+    "expected_answer": "Bài có overview phù hợp, bố cục nhìn chung mạch lạc và dùng từ đủ linh hoạt, nhưng cách trình bày còn hơi máy móc, chỉ một phần mô tả có số liệu hỗ trợ, có sự lặp lại, và chưa có đủ độ đa dạng về từ vựng cũng như cấu trúc câu để đạt band cao hơn.",
+    "expected_context": "ielts-academic-writing-example-responses-to-parts-1-and-2-with-band-scores-and-examiner-comments.pdf, trang 2, Examiner comment cho Candidate Response 1, Band 6"
+  },
+  {
+    "question": "Điểm mạnh và hạn chế chính của Sample Academic Writing Part 2 Candidate Response 2 được chấm Band 7.5 là gì?",
+    "expected_answer": "Bài có lập trường rõ ràng, phát triển ý hợp lý, xem xét và bác bỏ quan điểm đối lập, tổ chức ý logic và sử dụng từ vựng khá rộng. Hạn chế là có phần lạm dụng từ chỉ trình tự, cách chia đoạn chưa tối ưu, vẫn có một số lỗi và sử dụng hơi nhiều câu ngắn.",
+    "expected_context": "ielts-academic-writing-example-responses-to-parts-1-and-2-with-band-scores-and-examiner-comments.pdf, trang 5, Examiner comment cho Candidate Response 2, Band 7.5"
   }
 ]
