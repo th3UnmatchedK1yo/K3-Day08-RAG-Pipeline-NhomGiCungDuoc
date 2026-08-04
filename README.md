@@ -22,6 +22,16 @@ Phân công & báo cáo nhóm: [`group_project/README.md`](group_project/README.
 
 ---
 
+## App Screenshots
+
+Dưới đây là một số hình ảnh giao diện của ứng dụng:
+
+![Screenshot 1](assets/screenshots/Screenshot%202026-08-04%20163253.png)
+![Screenshot 2](assets/screenshots/Screenshot%202026-08-04%20163304.png)
+![Screenshot 3](assets/screenshots/Screenshot%202026-08-04%20165043.png)
+
+---
+
 ## Architecture
 
 ```text
