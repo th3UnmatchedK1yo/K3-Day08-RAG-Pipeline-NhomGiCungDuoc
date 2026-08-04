@@ -1,5 +1,15 @@
 # Final Implementation Report — IELTS Writing RAG Pipeline
 
+## Team
+
+| Thành viên | MSSV | Vai trò |
+|-----------|------|---------|
+| Võ Hà Minh Huy | 2A202601373 | Full RAG pipeline (Tasks 1–3, 5–10), Streamlit, DeepSeek, PageIndex, crawl, tích hợp |
+| Nguyễn Minh Thái | 2A202601619 | Task 4 ChromaDB / vector database; tìm & chuẩn bị tài liệu PDF |
+| Đỗ Duy Đông | 2A202601675 | Golden dataset + evaluation A/B; quản lý Git (merge / repo nhóm) |
+
+Nhóm: **Nhóm Gì Cũng Được** — báo cáo phân công chi tiết: `group_project/README.md`
+
 ## Repository root
 
 `C:\Users\Legion\Documents\THUCHANH-AITHUCCHIEN-E403\K3-Day08-RAG-Pipeline-NhomGiCungDuoc`

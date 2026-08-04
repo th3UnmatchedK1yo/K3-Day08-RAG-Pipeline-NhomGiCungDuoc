@@ -1,0 +1,262 @@
+[
+  {
+    "id": "q01",
+    "question": "Task Achievement trong IELTS Writing Task 1 đánh giá điều gì?",
+    "expected_answer": "Mức độ hoàn thành yêu cầu đề bài Task 1 một cách đầy đủ, phù hợp, chính xác và liên quan.",
+    "expected_source_titles": [
+      "IELTS Writing Key Assessment Criteria",
+      "IELTS Academic Writing Sample Tasks 2023"
+    ],
+    "expected_content_type": "assessment_criterion",
+    "expected_band": null,
+    "must_contain": ["Task Achievement", "Task 1"],
+    "must_not_claim": ["Task Response applies to Task 1"],
+    "notes": "Definition of Task Achievement"
+  },
+  {
+    "id": "q02",
+    "question": "What does Task Response assess in Writing Task 2?",
+    "expected_answer": "How fully, relevantly and appropriately the candidate responds to the Task 2 prompt with a clear position and developed ideas.",
+    "expected_source_titles": [
+      "IELTS Writing Key Assessment Criteria",
+      "IELTS Academic Writing Sample Tasks 2023"
+    ],
+    "expected_content_type": "assessment_criterion",
+    "expected_band": null,
+    "must_contain": ["Task Response", "Task 2"],
+    "must_not_claim": ["Task Achievement is used for Task 2"],
+    "notes": "Definition of Task Response"
+  },
+  {
+    "id": "q03",
+    "question": "Task Achievement và Task Response khác nhau như thế nào?",
+    "expected_answer": "Task Achievement dùng cho Writing Task 1; Task Response dùng cho Writing Task 2.",
+    "expected_source_titles": [
+      "IELTS Writing Key Assessment Criteria",
+      "IELTS Academic Writing Sample Tasks 2023"
+    ],
+    "expected_content_type": "assessment_criterion",
+    "expected_band": null,
+    "must_contain": ["Task 1", "Task 2"],
+    "must_not_claim": [],
+    "notes": "Task 1 vs Task 2 terminology"
+  },
+  {
+    "id": "q04",
+    "question": "Sự khác biệt giữa Band 5 và Band 6 ở tiêu chí Lexical Resource là gì?",
+    "expected_answer": "So sánh descriptor Lexical Resource Band 5 và Band 6 từ bảng band descriptors.",
+    "expected_source_titles": ["IELTS Writing Band Descriptors 2023"],
+    "expected_content_type": "band_descriptor",
+    "expected_band": null,
+    "must_contain": ["Band 5", "Band 6", "Lexical"],
+    "must_not_claim": ["guaranteed band for your essay"],
+    "notes": "Band 5 vs Band 6"
+  },
+  {
+    "id": "q05",
+    "question": "Sự khác biệt giữa Band 6 và Band 7 ở Lexical Resource Task 2 là gì?",
+    "expected_answer": "So sánh descriptor Lexical Resource Band 6 và Band 7 cho Task 2.",
+    "expected_source_titles": ["IELTS Writing Band Descriptors 2023"],
+    "expected_content_type": "band_descriptor",
+    "expected_band": null,
+    "must_contain": ["Band 6", "Band 7"],
+    "must_not_claim": [],
+    "notes": "Band 6 vs Band 7"
+  },
+  {
+    "id": "q06",
+    "question": "What is the difference between Band 7 and Band 8 for Coherence and Cohesion?",
+    "expected_answer": "Compare official Coherence and Cohesion descriptors for bands 7 and 8.",
+    "expected_source_titles": ["IELTS Writing Band Descriptors 2023"],
+    "expected_content_type": "band_descriptor",
+    "expected_band": null,
+    "must_contain": ["Band 7", "Band 8", "Coherence"],
+    "must_not_claim": [],
+    "notes": "Band 7 vs Band 8"
+  },
+  {
+    "id": "q07",
+    "question": "Lexical Resource đánh giá những khía cạnh nào?",
+    "expected_answer": "Phạm vi từ vựng, độ chính xác và tính phù hợp của việc sử dụng từ trong task.",
+    "expected_source_titles": [
+      "IELTS Writing Key Assessment Criteria",
+      "IELTS Academic Writing Sample Tasks 2023"
+    ],
+    "expected_content_type": "assessment_criterion",
+    "expected_band": null,
+    "must_contain": ["vocabulary", "Lexical"],
+    "must_not_claim": [],
+    "notes": "Lexical Resource"
+  },
+  {
+    "id": "q08",
+    "question": "Band 8 yêu cầu gì ở Coherence and Cohesion?",
+    "expected_answer": "Descriptor Band 8 về tổ chức thông tin, liên kết và paragraphing theo bảng điểm chính thức.",
+    "expected_source_titles": ["IELTS Writing Band Descriptors 2023"],
+    "expected_content_type": "band_descriptor",
+    "expected_band": 8,
+    "must_contain": ["Band 8", "Coherence"],
+    "must_not_claim": [],
+    "notes": "Coherence and Cohesion Band 8"
+  },
+  {
+    "id": "q09",
+    "question": "Grammatical Range and Accuracy đánh giá điều gì?",
+    "expected_answer": "Phạm vi và độ chính xác của cấu trúc ngữ pháp trong bài viết.",
+    "expected_source_titles": [
+      "IELTS Writing Key Assessment Criteria",
+      "IELTS Academic Writing Sample Tasks 2023"
+    ],
+    "expected_content_type": "assessment_criterion",
+    "expected_band": null,
+    "must_contain": ["Grammatical"],
+    "must_not_claim": [],
+    "notes": "GRA"
+  },
+  {
+    "id": "q10",
+    "question": "Reference và substitution giúp tạo cohesion như thế nào?",
+    "expected_answer": "Dùng đại từ/tham chiếu và thay thế từ để liên kết ý thay vì lặp từ quá mức.",
+    "expected_source_titles": [
+      "British Council IELTS Writing - Coherence & Cohesion"
+    ],
+    "expected_content_type": "teaching_guidance",
+    "expected_band": null,
+    "must_contain": ["reference", "substitution"],
+    "must_not_claim": [],
+    "notes": "Reference and substitution"
+  },
+  {
+    "id": "q11",
+    "question": "Vì sao dùng quá nhiều cohesive devices có thể làm giảm chất lượng bài viết?",
+    "expected_answer": "Over-use hoặc dùng linking words không phù hợp có thể gây confusing/irritating cho người đọc.",
+    "expected_source_titles": [
+      "British Council IELTS Writing - Coherence & Cohesion"
+    ],
+    "expected_content_type": "teaching_guidance",
+    "expected_band": null,
+    "must_contain": ["linking", "over"],
+    "must_not_claim": ["one linking word guarantees Band 8"],
+    "notes": "Cohesive-device overuse"
+  },
+  {
+    "id": "q12",
+    "question": "Collocation được đề cập như thế nào trong nhận xét examiner Band cao?",
+    "expected_answer": "Examiner có thể khen appropriate modification, collocation and precise vocabulary choice.",
+    "expected_source_titles": ["IELTS Academic Writing Sample Tasks 2023"],
+    "expected_content_type": "examiner_comment",
+    "expected_band": 8.5,
+    "must_contain": ["collocation"],
+    "must_not_claim": [],
+    "notes": "Collocation"
+  },
+  {
+    "id": "q13",
+    "question": "Precise vocabulary choice xuất hiện trong nhận xét examiner nào?",
+    "expected_answer": "Trong examiner comment Band 8.5 Task 2A.",
+    "expected_source_titles": ["IELTS Academic Writing Sample Tasks 2023"],
+    "expected_content_type": "examiner_comment",
+    "expected_band": 8.5,
+    "must_contain": ["precise", "vocabulary"],
+    "must_not_claim": [],
+    "notes": "Word choice precision"
+  },
+  {
+    "id": "q14",
+    "question": "Sentence range / syntax variety được examiner nhận xét ra sao ở Band 8.5?",
+    "expected_answer": "Syntax is varied and sophisticated with only occasional errors.",
+    "expected_source_titles": ["IELTS Academic Writing Sample Tasks 2023"],
+    "expected_content_type": "examiner_comment",
+    "expected_band": 8.5,
+    "must_contain": ["syntax", "varied"],
+    "must_not_claim": [],
+    "notes": "Sentence range"
+  },
+  {
+    "id": "q15",
+    "question": "Examiner nhận xét gì về bài Task 2A Band 8.5?",
+    "expected_answer": "Topic well addressed, clear position, sophisticated cohesive devices, wide natural vocabulary; overall Band 8.5.",
+    "expected_source_titles": ["IELTS Academic Writing Sample Tasks 2023"],
+    "expected_content_type": "examiner_comment",
+    "expected_band": 8.5,
+    "must_contain": ["8.5", "Examiner"],
+    "must_not_claim": ["I analysed the handwritten essay wording"],
+    "notes": "Examiner comment Band 8.5"
+  },
+  {
+    "id": "q16",
+    "question": "Examiner nhận xét gì về một bài mẫu Band 7.5?",
+    "expected_answer": "Tóm tắt nhận xét examiner cho script Band 7.5 nếu có trong corpus.",
+    "expected_source_titles": ["IELTS Academic Writing Sample Tasks 2023"],
+    "expected_content_type": "examiner_comment",
+    "expected_band": 7.5,
+    "must_contain": ["7.5"],
+    "must_not_claim": ["I analysed unavailable handwriting"],
+    "notes": "Examiner comment Band 7.5"
+  },
+  {
+    "id": "q17",
+    "question": "Examiner nhận xét gì về một bài mẫu Band 6.5?",
+    "expected_answer": "Tóm tắt nhận xét examiner cho script Band 6.5 nếu có trong corpus.",
+    "expected_source_titles": ["IELTS Academic Writing Sample Tasks 2023"],
+    "expected_content_type": "examiner_comment",
+    "expected_band": 6.5,
+    "must_contain": ["6.5"],
+    "must_not_claim": ["I analysed unavailable handwriting"],
+    "notes": "Examiner comment Band 6.5"
+  },
+  {
+    "id": "q18",
+    "question": "Giải thích giúp mình tiêu chí mạch lạc và liên kết trong IELTS Writing?",
+    "expected_answer": "Coherence là liên kết ý theo logic; cohesion là dùng cohesive devices phù hợp.",
+    "expected_source_titles": [
+      "IELTS Writing Key Assessment Criteria",
+      "British Council IELTS Writing - Coherence & Cohesion",
+      "IELTS Academic Writing Sample Tasks 2023"
+    ],
+    "expected_content_type": "assessment_criterion",
+    "expected_band": null,
+    "must_contain": ["coherence", "cohesion"],
+    "must_not_claim": [],
+    "notes": "Vietnamese paraphrased query"
+  },
+  {
+    "id": "q19",
+    "question": "Why can't I get a Band 8 in IELTS Writing Task 2 according to IDP guidance?",
+    "expected_answer": "Compare Band 7 vs Band 8 across official assessment criteria as explained by IDP.",
+    "expected_source_titles": [
+      "Why can’t I get a Band 8?",
+      "Why can't I get a Band 8?"
+    ],
+    "expected_content_type": "teaching_guidance",
+    "expected_band": null,
+    "must_contain": ["Band 8"],
+    "must_not_claim": [],
+    "notes": "English web guidance query"
+  },
+  {
+    "id": "q20",
+    "question": "How do I repair a car engine?",
+    "expected_answer": "Out of domain; system should reject or mark unsupported from IELTS corpus.",
+    "expected_source_titles": [],
+    "expected_content_type": "out_of_domain",
+    "expected_band": null,
+    "must_contain": [],
+    "must_not_claim": [
+      "spark plug",
+      "oil filter replacement steps as IELTS advice"
+    ],
+    "notes": "Out-of-domain query"
+  },
+  {
+    "id": "q21",
+    "question": "Phân tích chính xác wording chữ viết tay của bài Task 2A Band 8.5 giúp tôi.",
+    "expected_answer": "Refuse because handwritten candidate text is unavailable in corpus.",
+    "expected_source_titles": ["IELTS Academic Writing Sample Tasks 2023"],
+    "expected_content_type": "examiner_comment",
+    "expected_band": 8.5,
+    "must_contain": ["không thể phân tích"],
+    "must_not_claim": ["I extracted the handwriting with OCR"],
+    "notes": "Required failure case: handwriting unavailable"
+  }
+]

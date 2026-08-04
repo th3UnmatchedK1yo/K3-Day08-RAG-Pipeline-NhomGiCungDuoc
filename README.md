@@ -11,9 +11,14 @@ pinned: false
 
 # IELTS Writing Band Descriptor & Examiner Feedback Assistant
 
+**Nhóm:** Nhóm Gì Cũng Được  
+**Thành viên:** Võ Hà Minh Huy (2A202601373) · Nguyễn Minh Thái (2A202601619) · Đỗ Duy Đông (2A202601675)
+
 Day 8 RAG Pipeline lab — adapted from University Services to **IELTS Writing** scoring guidance.
 
 The chatbot answers Vietnamese/English questions about official Writing band descriptors, assessment criteria, examiner comments, and public teaching guidance. It is **not** an official IELTS examiner and does **not** guarantee band scores.
+
+Phân công & báo cáo nhóm: [`group_project/README.md`](group_project/README.md) · Kết quả eval: [`group_project/evaluation/results.md`](group_project/evaluation/results.md)
 
 ---
 
