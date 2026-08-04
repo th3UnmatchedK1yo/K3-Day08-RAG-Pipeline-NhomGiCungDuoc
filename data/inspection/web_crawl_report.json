@@ -1,0 +1,63 @@
+{
+  "crawled_at": "2026-08-04T07:23:40.301279+00:00",
+  "successful_web_articles": 5,
+  "total_urls": 5,
+  "failed_urls": [],
+  "articles": [
+    {
+      "url": "https://ielts.idp.com/prepare/article-writing-task-2-why-cant-i-get-a-band-8",
+      "source_org": "IDP IELTS",
+      "status": "success",
+      "crawler_method": "cached",
+      "http_status": null,
+      "content_length": 17771,
+      "failure_reason": null,
+      "output_filename": "article_01.json",
+      "reused_existing": true
+    },
+    {
+      "url": "https://ielts.idp.com/prepare/article-ielts-writing-task-2-8-steps-to-band-8",
+      "source_org": "IDP IELTS",
+      "status": "success",
+      "crawler_method": "cached",
+      "http_status": null,
+      "content_length": 27868,
+      "failure_reason": null,
+      "output_filename": "article_02.json",
+      "reused_existing": true
+    },
+    {
+      "url": "https://takeielts.britishcouncil.org/blog/ielts-writing-task-2-tips",
+      "source_org": "British Council",
+      "status": "success",
+      "crawler_method": "crawl4ai",
+      "http_status": 200,
+      "content_length": 31271,
+      "failure_reason": null,
+      "output_filename": "article_03.json",
+      "reused_existing": false
+    },
+    {
+      "url": "https://takeielts.britishcouncil.org/blog/how-to-write-an-english-essay-for-ielts",
+      "source_org": "British Council",
+      "status": "success",
+      "crawler_method": "crawl4ai",
+      "http_status": 200,
+      "content_length": 20436,
+      "failure_reason": null,
+      "output_filename": "article_04.json",
+      "reused_existing": false
+    },
+    {
+      "url": "https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-english-practice-tests/writing/academic/task-2",
+      "source_org": "British Council",
+      "status": "success",
+      "crawler_method": "crawl4ai",
+      "http_status": 200,
+      "content_length": 13039,
+      "failure_reason": null,
+      "output_filename": "article_05.json",
+      "reused_existing": false
+    }
+  ]
+}

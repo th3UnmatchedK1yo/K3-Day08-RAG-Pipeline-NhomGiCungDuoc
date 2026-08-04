@@ -1,0 +1,61 @@
+{
+  "converted_at": "2026-08-04T07:30:57.705554+00:00",
+  "records_created": 115,
+  "legal_records": 110,
+  "news_records": 5,
+  "skipped_pages": [
+    {
+      "source_file": "ielts-academic-writing-sample-tasks-2023.pdf",
+      "page_number": 14,
+      "reason": "skipped_image_text",
+      "preview": "Academic Writing Sample Task – 1C – Sample\nScript B",
+      "script_id": "task1c_script_b"
+    },
+    {
+      "source_file": "ielts-academic-writing-sample-tasks-2023.pdf",
+      "page_number": 16,
+      "reason": "skipped_image_text",
+      "preview": "Academic Writing Sample Task – 1C – Sample\nScript C",
+      "script_id": "task1c_script_c"
+    },
+    {
+      "source_file": "ielts-academic-writing-sample-tasks-2023.pdf",
+      "page_number": 19,
+      "reason": "skipped_image_text",
+      "preview": "Academic Writing Sample Task – 2A – Sample\nScript B",
+      "script_id": "task2a_script_b"
+    },
+    {
+      "source_file": "ielts-academic-writing-sample-tasks-2023.pdf",
+      "page_number": 21,
+      "reason": "skipped_image_text",
+      "preview": "Academic Writing Sample Task – 2A – Sample\nScript C",
+      "script_id": "task2a_script_c"
+    },
+    {
+      "source_file": "ielts-academic-writing-sample-tasks-2023.pdf",
+      "page_number": 23,
+      "reason": "skipped_image_text",
+      "preview": "Academic Writing Sample Task – 2B – Sample\nScript A",
+      "script_id": "task2b_script_a"
+    },
+    {
+      "source_file": "ielts-academic-writing-sample-tasks-2023.pdf",
+      "page_number": 25,
+      "reason": "skipped_image_text",
+      "preview": "Academic Writing Sample Task – 2B – Sample\nScript B",
+      "script_id": "task2b_script_b"
+    }
+  ],
+  "skipped_news": [],
+  "handwriting_policy": "OCR disabled. Image-only handwritten candidate pages are skipped and not indexed. Examiner comments remain when machine-readable.",
+  "content_type_counts": {
+    "examiner_comment": 13,
+    "typed_candidate_response": 4,
+    "teaching_guidance": 8,
+    "task_prompt": 5,
+    "band_descriptor": 80,
+    "assessment_criterion": 4,
+    "practice_question": 1
+  }
+}
