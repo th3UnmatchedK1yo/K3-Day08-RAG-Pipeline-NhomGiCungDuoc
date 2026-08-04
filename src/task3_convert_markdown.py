@@ -67,21 +67,42 @@ def convert_news_articles():
             # print(f"  ✓ Saved: {output_path}")
             raise NotImplementedError("Implement convert_news_articles")
 
+def convert_ielts_docs():
+    """Convert PDF IELTS trong data/landing/ielts/ sang Markdown."""
+    ielts_dir = LANDING_DIR / "ielts"
+    output_dir = OUTPUT_DIR / "ielts"
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    md = MarkItDown()
+
+    if not ielts_dir.exists():
+        print(f"⚠ Không tìm thấy thư mục: {ielts_dir}")
+        return
+
+    for filepath in ielts_dir.iterdir():
+        if filepath.suffix.lower() == ".pdf":
+            print(f"Converting IELTS: {filepath.name}")
+
+            result = md.convert(str(filepath))
+
+            output_path = output_dir / f"{filepath.stem}.md"
+            output_path.write_text(
+                result.text_content,
+                encoding="utf-8"
+            )
+
+            print(f"  ✓ Saved: {output_path}")
 
 def convert_all():
-    """Convert toàn bộ files."""
+    """Convert IELTS documents."""
     print("=" * 50)
-    print("Task 3: Convert to Markdown (MarkItDown)")
+    print("Task 3: Convert IELTS PDF to Markdown")
     print("=" * 50)
 
-    print("\n--- Legal Documents ---")
-    convert_legal_docs()
-
-    print("\n--- News Articles ---")
-    convert_news_articles()
+    print("\n--- IELTS Documents ---")
+    convert_ielts_docs()
 
     print("\n✓ Done! Output tại:", OUTPUT_DIR)
-
 
 if __name__ == "__main__":
     convert_all()
